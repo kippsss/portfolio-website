@@ -1,0 +1,6 @@
+.body_background {
+  background-color: #f0ffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
